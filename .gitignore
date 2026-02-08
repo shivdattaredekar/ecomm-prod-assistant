@@ -8,3 +8,23 @@ wheels/
 
 # Virtual environments
 .venv
+env/
+venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+archive/
+
+.vscode/
